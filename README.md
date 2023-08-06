@@ -1,2 +1,2 @@
 # Glitchnotes
-Notes in linux terminal
+Notes app for linux terminal
